@@ -1,0 +1,4 @@
+Spartan
+=======
+
+Wordpress Starter Theme
